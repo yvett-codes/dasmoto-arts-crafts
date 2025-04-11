@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#page-title {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+    background-image: url(./assets/pattern.jpeg);
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
+}
+
+#brushes-title {
+    background-color: mediumspringgreen;
+}
+
+#frames-title {
+    background-color: lightcoral;
+}
+
+#paint-title {
+    background-color: skyblue;
+}
